@@ -1,6 +1,6 @@
-# Data Analytics Projects
+# Data Analysis Projects
 
-Welcome to my Data Analytics (SQL and Tableau) repository! 😊
+Welcome to my Data Analysis (SQL and Tableau) repository! 😊
 
 ## Project I: StreamingServicesAnalysis (13/03/2024 - ongoing)
 
