@@ -2,7 +2,7 @@
 
 Welcome to my Data Analysis (SQL and Tableau) repository! 😊
 
-## Practice Exercises
+## Practice Exercises (14/03/2024 - ongoing)
 
 Here you can find some SQL exercises solutions, organized by topic.
 
