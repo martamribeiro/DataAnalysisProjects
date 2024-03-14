@@ -1,0 +1,19 @@
+LOAD DATA INFILE 'C:/ProgramData/MySQL/MySQL Server 8.3/Uploads/netflix_titles.csv'
+INTO TABLE netflix_catalog
+FIELDS TERMINATED BY ','
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+IGNORE 1 LINES
+(@show_id, @type, @title, @director, @cast, @country, @date_added, @release_year, @rating, @duration, @listed_in, @description)
+SET show_id = @show_id,
+    type = @type,
+    title = @title,
+    director = @director,
+    cast = @cast,
+    country = @country,
+    date_added = IF(@date_added = '', NULL, STR_TO_DATE(@date_added, '%M %e, %Y')), -- Convert date format, handle empty/null values
+    release_year = @release_year,
+    rating = @rating,
+    duration = @duration,
+    listed_in = @listed_in,
+    description = @description;
