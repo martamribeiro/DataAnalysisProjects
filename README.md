@@ -1,6 +1,6 @@
-# Data Analytics Portfolio
+# Data Analytics Projects
 
-Welcome to my Data Analytics (SQL and Tableau) portfolio! 😊
+Welcome to my Data Analytics (SQL and Tableau) repository! 😊
 
 ## Project I: StreamingServicesAnalysis (13/03/2024 - ongoing)
 
