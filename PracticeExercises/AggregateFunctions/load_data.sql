@@ -24,9 +24,9 @@ VALUES
 
 SELECT * FROM orders;
 
--- LOAD DATA DO costumer TABLE
+-- LOAD DATA DO customer TABLE
 
-INSERT INTO costumer
+INSERT INTO customer
 VALUES
 ('3002','Nick Rimando','New York','100','5001'),
 ('3007','Brad Davis','New York','200','5001'),
@@ -37,4 +37,4 @@ VALUES
 ('3003','Jozy Altidor','Moscow','200','5007'),
 ('3001','Brad Guzan','London',NULL,'5005');
 
-SELECT * FROM costumer;
+SELECT * FROM customer;

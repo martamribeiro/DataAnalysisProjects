@@ -8,7 +8,7 @@
 -- DROP ORDERS TABLE
 
 DROP TABLE IF EXISTS orders;
-DROP TABLE IF EXISTS costumer;
+DROP TABLE IF EXISTS customer;
 
 -- ========================================
 -- ===========CREATE TABLES================
@@ -26,14 +26,14 @@ CREATE TABLE orders (
 
 DESCRIBE orders;
 
--- CREATE COSTUMER TABLE
+-- CREATE CUSTOMER TABLE
 
-CREATE TABLE costumer (
-    costumer_id INT PRIMARY KEY,
+CREATE TABLE customer (
+    customer_id INT PRIMARY KEY,
     cust_name VARCHAR(20),
     city VARCHAR(20),
     grade INT,
     salesman_id INT
 );
 
-DESCRIBE costumer;
+DESCRIBE customer;
