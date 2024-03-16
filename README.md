@@ -6,7 +6,7 @@ Welcome to my Data Analysis repository, where I work to improve my SQL, Python (
 
 ### Python - Pandas
 
-* [Exercise: Creating, Reading and Writing](link)
+* [Exercise: Creating, Reading and Writing](KaggleExercises/exercise-creating-reading-and-writing.ipynb)
 
 ## Other Sources
 
