@@ -1,21 +1,15 @@
 # Data Analysis Projects
 
-Welcome to my Data Analysis (SQL and Tableau) repository! 😊
+Welcome to my Data Analysis repository, where I work to improve my SQL, Python (Pandas), and dashboard skills! 😊
 
-## Practice Exercises (14/03/2024 - ongoing)
+## Kaggle Exercises
 
-Here you can find some SQL exercises solutions, organized by topic.
+### Python - Pandas
 
-### [Aggregate Functions](PracticeExercises/AggregateFunctions)
+* [Exercise: Creating, Reading and Writing](link)
 
-#### Sources
-- **SQL Aggregate Functions Exercises:** [w3resource](https://www.w3resource.com/sql-exercises/sql-aggregate-functions.php)
+## Other Sources
 
-## Project I: StreamingServicesAnalysis (13/03/2024 - ongoing)
+### Hackerrank (SQL and Python)
 
-For this Project I will analyse datasets from multiple streaming platforms and compare them.
-
-### [NETFLIX](StreamingServicesAnalysis/Netflix)
-
-#### Dataset
-- **Netflix Catalog Data:** [Netflix Movies and TV Shows](https://www.kaggle.com/datasets/shivamb/netflix-shows)
+* My hackerrank account: [Marta Ribeiro](https://www.hackerrank.com/profile/iammartaribeiro) -> I do a bunch of SQL and Python exercises here
