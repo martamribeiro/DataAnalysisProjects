@@ -10,6 +10,7 @@ Welcome to my Data Analysis repository, where I work to improve my SQL, Python (
 * [Indexing, Selecting & Assigning](KaggleExercises/exercise-indexing-selecting-assigning.ipynb)
 * [Summary Functions and Maps](KaggleExercises/exercise-summary-functions-and-maps.ipynb)
 * [Grouping and Sorting](KaggleExercises/exercise-grouping-and-sorting.ipynb)
+* [Data Types And Missing Values](KaggleExercises/exercise-data-types-and-missing-values.ipynb)
 
 ## W3Resource Exercises
 
