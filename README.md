@@ -8,6 +8,7 @@ Welcome to my Data Analysis repository, where I work to improve my SQL, Python (
 
 * [Creating, Reading and Writing](KaggleExercises/exercise-creating-reading-and-writing.ipynb)
 * [Indexing, Selecting & Assigning](KaggleExercises/exercise-indexing-selecting-assigning.ipynb)
+* [Summary Functions and Maps](KaggleExercises/exercise-summary-functions-and-maps.ipynb)
 
 ## W3Resource Exercises
 
