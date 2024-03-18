@@ -6,12 +6,12 @@ Welcome to my Data Analysis repository, where I work to improve my SQL, Python (
 
 ### Python - Pandas
 
-* [Creating, Reading and Writing](KaggleExercises/exercise-creating-reading-and-writing.ipynb)
-* [Indexing, Selecting & Assigning](KaggleExercises/exercise-indexing-selecting-assigning.ipynb)
-* [Summary Functions and Maps](KaggleExercises/exercise-summary-functions-and-maps.ipynb)
-* [Grouping and Sorting](KaggleExercises/exercise-grouping-and-sorting.ipynb)
-* [Data Types And Missing Values](KaggleExercises/exercise-data-types-and-missing-values.ipynb)
-* [Renaming And Combining](KaggleExercises/exercise-renaming-and-combining.ipynb)
+* [Creating, Reading and Writing](KaggleExercises/Pandas/exercise-creating-reading-and-writing.ipynb)
+* [Indexing, Selecting & Assigning](KaggleExercises/Pandas/exercise-indexing-selecting-assigning.ipynb)
+* [Summary Functions and Maps](KaggleExercises/Pandas/exercise-summary-functions-and-maps.ipynb)
+* [Grouping and Sorting](KaggleExercises/Pandas/exercise-grouping-and-sorting.ipynb)
+* [Data Types And Missing Values](KaggleExercises/Pandas/exercise-data-types-and-missing-values.ipynb)
+* [Renaming And Combining](KaggleExercises/Pandas/exercise-renaming-and-combining.ipynb)
 
 ## W3Resource Exercises
 
