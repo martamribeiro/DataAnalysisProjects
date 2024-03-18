@@ -12,6 +12,7 @@ Welcome to my Data Analysis repository, where I work to improve my SQL, Python, 
 * [Lists](KaggleExercises/Python/exercise-lists.ipynb)
 * [Loops and List Comprehensions](KaggleExercises/Python/exercise-loops-and-list-comprehensions.ipynb)
 * [Strings and Dictionaries](KaggleExercises/Python/exercise-strings-and-dictionaries.ipynb)
+* [Working with External Libraries](KaggleExercises/Python/exercise-working-with-external-libraries.ipynb)
 
 ### Pandas
 
