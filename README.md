@@ -11,6 +11,7 @@ Welcome to my Data Analysis repository, where I work to improve my SQL, Python, 
 * [Booleand and Conditionals](KaggleExercises/Python/exercise-booleans-and-conditionals.ipynb)
 * [Lists](KaggleExercises/Python/exercise-lists.ipynb)
 * [Loops and List Comprehensions](KaggleExercises/Python/exercise-loops-and-list-comprehensions.ipynb)
+* [Strings and Dictionaries](KaggleExercises/Python/exercise-strings-and-dictionaries.ipynb)
 
 ### Pandas
 
