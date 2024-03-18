@@ -4,7 +4,11 @@ Welcome to my Data Analysis repository, where I work to improve my SQL, Python (
 
 ## Kaggle Exercises
 
-### Python - Pandas
+### Python
+
+*[Syntax Variables And Numbers](KaggleExercises/Python/exercise-syntax-variables-and-numbers.ipynb)
+
+### Pandas
 
 * [Creating, Reading and Writing](KaggleExercises/Pandas/exercise-creating-reading-and-writing.ipynb)
 * [Indexing, Selecting & Assigning](KaggleExercises/Pandas/exercise-indexing-selecting-assigning.ipynb)
