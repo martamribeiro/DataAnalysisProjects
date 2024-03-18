@@ -6,7 +6,7 @@ Welcome to my Data Analysis repository, where I work to improve my SQL, Python (
 
 ### Python
 
-*[Syntax Variables And Numbers](KaggleExercises/Python/exercise-syntax-variables-and-numbers.ipynb)
+* [Syntax Variables And Numbers](KaggleExercises/Python/exercise-syntax-variables-and-numbers.ipynb)
 
 ### Pandas
 
