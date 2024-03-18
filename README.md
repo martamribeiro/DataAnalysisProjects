@@ -9,6 +9,7 @@ Welcome to my Data Analysis repository, where I work to improve my SQL, Python (
 * [Syntax Variables and Numbers](KaggleExercises/Python/exercise-syntax-variables-and-numbers.ipynb)
 * [Functions and Getting Help](KaggleExercises/Python/exercise-functions-and-getting-help.ipynb)
 * [Booleand and Conditionals](KaggleExercises/Python/exercise-booleans-and-conditionals.ipynb)
+* [Lists](KaggleExercises/Python/exercise-lists.ipynb)
 
 ### Pandas
 
