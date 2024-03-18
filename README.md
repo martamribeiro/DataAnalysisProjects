@@ -6,7 +6,8 @@ Welcome to my Data Analysis repository, where I work to improve my SQL, Python (
 
 ### Python
 
-* [Syntax Variables And Numbers](KaggleExercises/Python/exercise-syntax-variables-and-numbers.ipynb)
+* [Syntax Variables and Numbers](KaggleExercises/Python/exercise-syntax-variables-and-numbers.ipynb)
+* [Functions and Getting Help](KaggleExercises/Python/exercise-functions-and-getting-help.ipynb)
 
 ### Pandas
 
@@ -14,8 +15,8 @@ Welcome to my Data Analysis repository, where I work to improve my SQL, Python (
 * [Indexing, Selecting & Assigning](KaggleExercises/Pandas/exercise-indexing-selecting-assigning.ipynb)
 * [Summary Functions and Maps](KaggleExercises/Pandas/exercise-summary-functions-and-maps.ipynb)
 * [Grouping and Sorting](KaggleExercises/Pandas/exercise-grouping-and-sorting.ipynb)
-* [Data Types And Missing Values](KaggleExercises/Pandas/exercise-data-types-and-missing-values.ipynb)
-* [Renaming And Combining](KaggleExercises/Pandas/exercise-renaming-and-combining.ipynb)
+* [Data Types and Missing Values](KaggleExercises/Pandas/exercise-data-types-and-missing-values.ipynb)
+* [Renaming and Combining](KaggleExercises/Pandas/exercise-renaming-and-combining.ipynb)
 
 ## W3Resource Exercises
 
