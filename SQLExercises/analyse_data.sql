@@ -1,9 +1,11 @@
--- Source: https://www.w3resource.com/sql-exercises/sql-aggregate-functions.php
+-- Source: https://www.w3resource.com/sql-exercises
 -- Used: MySQL and PopSQL
 
--- ========================================
--- ============ANALYSE DATA================
--- ========================================
+-- ==============================================================================
+-- =============================AGGREGATE FUNCTIONS==============================
+-- ==============================================================================
+-- Source: https://www.w3resource.com/sql-exercises/sql-aggregate-functions.php
+-- ==============================================================================
 
 -- 1. Write a SQL query to calculate total purchase amount of all orders. Return total purchase amount.
 -- Sample Output:
@@ -110,3 +112,17 @@ GROUP BY customer_id;
 SELECT customer_id, ord_date, MAX(purch_amt) AS max
 FROM orders
 GROUP BY customer_id, ord_date;
+
+-- 25. Write a SQL query to count the number of employees in each department. Return department code and number of employees.
+
+SELECT emp_dept, COUNT(emp_idno) AS num_employees
+FROM emp_details
+GROUP BY emp_dept
+ORDER BY emp_dept;
+
+-- ==================================================================================
+-- ==================================MOVIE DATABASE==================================
+-- ==================================================================================
+-- Source: https://www.w3resource.com/sql-exercises/movie-database-exercise/index.php
+-- ==================================================================================
+
