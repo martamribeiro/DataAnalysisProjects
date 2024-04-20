@@ -39,4 +39,4 @@ Welcome to my Data Analysis repository, where I work to improve my SQL, Python, 
 
 ### Tableau
 
-* I'm currently doing the [Tableau A-Z: Hands-On Tableau Training for Data Science](https://www.udemy.com/course/tableau10/) course, and will soon upload tableau content.
+* I'm currently doing the [Tableau A-Z: Hands-On Tableau Training for Data Science](https://www.udemy.com/course/tableau10/) course, and will soon upload tableau content to this repository.
