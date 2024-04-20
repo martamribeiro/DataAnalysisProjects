@@ -27,7 +27,8 @@ Welcome to my Data Analysis repository, where I work to improve my SQL, Python, 
 
 ### SQL
 
-* [Practice Files](SQLExercises) -> [W3Resource Source](https://www.w3resource.com/sql-exercises/sql-aggregate-functions.php)
+* [Solved Exercises](SQLExercises)
+* [Exercises W3Resource Source](https://www.w3resource.com/sql-exercises/sql-aggregate-functions.php)
 
 ## Other Sources
 
