@@ -2,9 +2,9 @@
 
 Welcome to my Data Analysis repository, where I work to improve my SQL, Python, Pandas, and dashboard skills! 😊
 
-## Kaggle Exercises
+## Courses
 
-### Python
+### Kaggle - Python
 
 * [Syntax Variables and Numbers](KaggleExercises/Python/exercise-syntax-variables-and-numbers.ipynb)
 * [Functions and Getting Help](KaggleExercises/Python/exercise-functions-and-getting-help.ipynb)
@@ -14,7 +14,7 @@ Welcome to my Data Analysis repository, where I work to improve my SQL, Python, 
 * [Strings and Dictionaries](KaggleExercises/Python/exercise-strings-and-dictionaries.ipynb)
 * [Working with External Libraries](KaggleExercises/Python/exercise-working-with-external-libraries.ipynb)
 
-### Pandas
+### Kaggle - Pandas
 
 * [Creating, Reading and Writing](KaggleExercises/Pandas/exercise-creating-reading-and-writing.ipynb)
 * [Indexing, Selecting & Assigning](KaggleExercises/Pandas/exercise-indexing-selecting-assigning.ipynb)
@@ -23,21 +23,20 @@ Welcome to my Data Analysis repository, where I work to improve my SQL, Python, 
 * [Data Types and Missing Values](KaggleExercises/Pandas/exercise-data-types-and-missing-values.ipynb)
 * [Renaming and Combining](KaggleExercises/Pandas/exercise-renaming-and-combining.ipynb)
 
-## W3Resource Exercises
+### Udemy - Tableau
+
+* I'm currently doing the [Tableau A-Z: Hands-On Tableau Training for Data Science](https://www.udemy.com/course/tableau10/) course, and will soon upload tableau content to this repository.
+
+## Exercises
 
 ### SQL
 
-* [Solved Exercises](SQLExercises)
-* [Exercises W3Resource Source](https://www.w3resource.com/sql-exercises/sql-aggregate-functions.php)
+* [Solved W3Resource Exercises](SQLExercises)
+* [W3Resource Exercises Source](https://www.w3resource.com/sql-exercises/sql-aggregate-functions.php)
 
-## Other Sources
+* My hackerrank account: [Marta Ribeiro](https://www.hackerrank.com/profile/iammartaribeiro) -> I do a bunch of SQL exercises here
 
-### Hackerrank (SQL and Python)
+### Python
 
-* My hackerrank account: [Marta Ribeiro](https://www.hackerrank.com/profile/iammartaribeiro) -> I do a bunch of SQL and Python exercises here
+* My hackerrank account: [Marta Ribeiro](https://www.hackerrank.com/profile/iammartaribeiro) -> I do a bunch of Python exercises here
 
-## Courses
-
-### Tableau
-
-* I'm currently doing the [Tableau A-Z: Hands-On Tableau Training for Data Science](https://www.udemy.com/course/tableau10/) course, and will soon upload tableau content to this repository.
