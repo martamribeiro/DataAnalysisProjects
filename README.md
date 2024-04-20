@@ -34,3 +34,9 @@ Welcome to my Data Analysis repository, where I work to improve my SQL, Python, 
 ### Hackerrank (SQL and Python)
 
 * My hackerrank account: [Marta Ribeiro](https://www.hackerrank.com/profile/iammartaribeiro) -> I do a bunch of SQL and Python exercises here
+
+## Courses
+
+### Tableau
+
+* I'm currently doing the [Tableau A-Z: Hands-On Tableau Training for Data Science](https://www.udemy.com/course/tableau10/) course, and will soon upload tableau content.
